@@ -7,16 +7,22 @@ I created this project as part of my learning journey in **React, TypeScript, Ta
 ---
 
 ## Features 📝
-
+- **Authentication:** Login and Registration system with protected routes.
 - **Dashboard Overview:** Shows Income, Expenses, and Balance with a privacy toggle (eye icon).  
 - **Transactions Management:** Add, edit, delete transactions with real-time updates.  
 - **Page Navigation:** Separate pages for Dashboard, Transactions, Budgets, Reports, and Settings.  
 - **Modern UI & Animations:** Smooth transitions and responsive design using TailwindCSS and Framer Motion.  
 - **Backend:** Node.js + Express API with PostgreSQL database.  
 
----
+
 
 ## Screenshots 📸
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Register Page
+![Register](screenshots/register.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
@@ -84,12 +90,13 @@ http://localhost:3000
 
 
 ## Usage
-
-- Add transactions on the **Transactions** page.
-- Toggle visibility of financial data on the **Dashboard** using the eye icon.
-- View summaries and financial insights on the **Reports** page.
-- Set and manage budgets on the **Budgets** page.
-- Adjust preferences and account options in **Settings**.
+    
+    •   Add transactions on the Transactions page.
+	•	Toggle visibility of financial data on the Dashboard using the eye icon.
+	•	View summaries and financial insights on the Reports page.
+	•	Set and manage budgets on the Budgets page.
+	•	Adjust preferences and account options in Settings.
+	•	Login or register to access your personal dashboard.
 
 
 
